@@ -1,7 +1,7 @@
-# StockTradingSystem
+# TradeMaster 
 
 ## Overview
-The Stock Trading System is a C++ application that simulates a stock trading environment. It allows multiple traders to buy and sell stocks and maintains an order book for processing these orders. This README provides an overview of the project, its design, and instructions for running the application.
+The Stock Trading System (TradeMaster) is a C++ application that simulates a stock trading environment. It allows multiple traders to buy and sell stocks and maintains an order book for processing these orders. This README provides an overview of the project, its design, and instructions for running the application.
 
 ## Project Structure
 
@@ -39,7 +39,7 @@ To run the Stock Trading System application, follow these steps:
 1. Clone repository.
    
    ```bash
-   git clone https://github.com/coderight1/StockTradingSystem.git
+   git clone https://github.com/coderight1/TradeMaster.git
    ```
 
    ```bash
